@@ -214,6 +214,7 @@
 127.0.0.1 9566180.com
 127.0.0.1 97kuaixiu.com
 127.0.0.1 9ll01.com
+127.0.0.1 9llm.com
 127.0.0.1 XiaoQiang
 127.0.0.1 a-ad.adwo.com
 127.0.0.1 a-m-s.poco.cn
@@ -885,6 +886,7 @@
 127.0.0.1 adv2.downsave.com
 127.0.0.1 advapi.ahtv.cn
 127.0.0.1 adver.qq.com
+127.0.0.1 advert.mting.info
 127.0.0.1 advertising.aol.com
 127.0.0.1 advertising.lycos.com
 127.0.0.1 adview.cn
@@ -1990,6 +1992,7 @@
 127.0.0.1 ck.houyi.baofeng.net
 127.0.0.1 ck.juicyads.com
 127.0.0.1 ck.kejet.net
+127.0.0.1 ckjyck.qxs.la
 127.0.0.1 ckmap.mediav.com
 127.0.0.1 cl.he9630.com
 127.0.0.1 cl.webterren.com
@@ -3317,13 +3320,13 @@
 127.0.0.1 ecmb.bdimg.com
 127.0.0.1 ecmc.bdimg.com
 127.0.0.1 eco.myt7th.xyz
+127.0.0.1 eco.vcbn65.xyz
 127.0.0.1 ecpm.tanx.com
 127.0.0.1 ed.sczhilong.cn
 127.0.0.1 edesf.xyzxmark.cn
 127.0.0.1 edge.quantserve.com
 127.0.0.1 edge.reporo.net
 127.0.0.1 edge.sharethis.com
-127.0.0.1 edge.yunjiasu.com
 127.0.0.1 editor.staging2.crazyegg.com
 127.0.0.1 ediuschina.com
 127.0.0.1 edp2.adriver.ru
@@ -3336,7 +3339,9 @@
 127.0.0.1 ee.6et8a.cn
 127.0.0.1 ee.6r7yc.cn
 127.0.0.1 ee.6x53p.cn
+127.0.0.1 ee.6xr2j.cn
 127.0.0.1 ee.805zx.cn
+127.0.0.1 ee.86rtg.cn
 127.0.0.1 ee.8h3mc.cn
 127.0.0.1 ee.8i1xc.cn
 127.0.0.1 ee.8t5xo.cn
@@ -3345,6 +3350,7 @@
 127.0.0.1 ee.hdboping.com
 127.0.0.1 ee.i36mf.cn
 127.0.0.1 ee.j5s9b.cn
+127.0.0.1 ee.m19ud.cn
 127.0.0.1 ee.t3j6a.cn
 127.0.0.1 ee.x0u4o.cn
 127.0.0.1 eed.ntjrh.com
@@ -3382,6 +3388,7 @@
 127.0.0.1 ent1.12584.cn
 127.0.0.1 entry.adsage.com
 127.0.0.1 entry.baidu.com
+127.0.0.1 eo.sdagxz.xyz
 127.0.0.1 eo.ssdoi.com
 127.0.0.1 epernn.cn
 127.0.0.1 epochtimes.com
@@ -4910,6 +4917,7 @@
 127.0.0.1 logoshejishi.com
 127.0.0.1 logoshejishi.mairuan.com
 127.0.0.1 logs.51cto.com
+127.0.0.1 logs.amap.com
 127.0.0.1 logs.cnfol.com
 127.0.0.1 logs.newapi.com
 127.0.0.1 logstat.caixin.com
@@ -5040,6 +5048,7 @@
 127.0.0.1 m.6l1967.cn
 127.0.0.1 m.6r7yc.cn
 127.0.0.1 m.6w23i.cn
+127.0.0.1 m.6xr2j.cn
 127.0.0.1 m.6z1gf.cn
 127.0.0.1 m.7180443.com
 127.0.0.1 m.73z9p.cn
@@ -5056,6 +5065,7 @@
 127.0.0.1 m.7wx8f.cn
 127.0.0.1 m.80o4j.cn
 127.0.0.1 m.85rvq.cn
+127.0.0.1 m.86rtg.cn
 127.0.0.1 m.89bia.cn
 127.0.0.1 m.8b7zja.cn
 127.0.0.1 m.8h3mc.cn
@@ -5531,6 +5541,7 @@
 127.0.0.1 m.ly0p9e.cn
 127.0.0.1 m.lyjz001.com
 127.0.0.1 m.lzida.com
+127.0.0.1 m.m19ud.cn
 127.0.0.1 m.m216j.cn
 127.0.0.1 m.m216j.com
 127.0.0.1 m.m5z3e.cn
@@ -6263,6 +6274,7 @@
 127.0.0.1 mvo.nefcd.xyz
 127.0.0.1 mvo.nwffx.xyz
 127.0.0.1 mvo.sqa54e.xyz
+127.0.0.1 mvo.vcbn65.xyz
 127.0.0.1 mvo.ythbr.xyz
 127.0.0.1 mvp.mediav.com
 127.0.0.1 mw.adwo.com
@@ -6987,6 +6999,7 @@
 127.0.0.1 qbr.sharethrough.com
 127.0.0.1 qde.chinaqirun.cn
 127.0.0.1 qeoa.hawbfa.com
+127.0.0.1 qguwoq.cn
 127.0.0.1 qhl.bealge.sogou.com
 127.0.0.1 qhm1.cnzz.com
 127.0.0.1 qhm2.cnzz.com
@@ -7755,6 +7768,8 @@
 127.0.0.1 sf.vserv.mobi
 127.0.0.1 sf01.fastapi.net
 127.0.0.1 sf1-ttcdn-tos.pstatp.com
+127.0.0.1 sf3-ttcdn-tos.pstatp.com
+127.0.0.1 sf6-ttcdn-tos.pstatp.com
 127.0.0.1 sfd.maizhenai.cn
 127.0.0.1 sg-cdn.effectivemeasure.net
 127.0.0.1 sg.a.stat.mi.com
@@ -8315,8 +8330,10 @@
 127.0.0.1 t.ujian.cc
 127.0.0.1 t.xamaky.top
 127.0.0.1 t.xymj.xyz
+127.0.0.1 t.youhua.pw
 127.0.0.1 t.youmi.net
 127.0.0.1 t.yunsoka.com
+127.0.0.1 t.zisu.cn.com
 127.0.0.1 t1.51maiwanju.com
 127.0.0.1 t1.58cdn.com.cn
 127.0.0.1 t1.a.market.xiaomi.com
@@ -8956,6 +8973,7 @@
 127.0.0.1 vpn.baolq666.com
 127.0.0.1 vpn.tuodupingguomiao.com
 127.0.0.1 vpn.yike0515.com
+127.0.0.1 vpn.zhengyejixie.com
 127.0.0.1 vpptv.admaster.com.cn
 127.0.0.1 vps.gcx3.cn
 127.0.0.1 vps.inte.sogou.com
@@ -10216,6 +10234,7 @@
 127.0.0.1 z.moatads.com
 127.0.0.1 z.opmnstr.com
 127.0.0.1 z.sora.yoyi.com.cn
+127.0.0.1 z1.cnywst.com
 127.0.0.1 z1.cnzz.com
 127.0.0.1 z1.dawanjiahn.com
 127.0.0.1 z1.zedo.com
@@ -10223,6 +10242,7 @@
 127.0.0.1 z11.cnzz.com
 127.0.0.1 z13.cnzz.com
 127.0.0.1 z1hihu.xmcimg.com
+127.0.0.1 z2.cnywst.com
 127.0.0.1 z2.cnzz.com
 127.0.0.1 z2.dawanjiahn.com
 127.0.0.1 z2.lnymd.com
