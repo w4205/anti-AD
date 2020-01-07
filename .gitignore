@@ -8,3 +8,4 @@ tools/*.out
 logs/
 *.log
 *.out
+special-rule.conf
